@@ -7,6 +7,7 @@
   
 ![image](https://github.com/user-attachments/assets/ee802973-6b66-4ed3-9c3a-7aaa702a9ed4)
 
+--
 
 ### Step 2: Connect IoT Devices to Gateway - Go to `Config > Wireless` on each IoT device - Set the **SSID** to match the Home Gateway’s SSID (case-sensitive) - Ensure **Power** is ON
 
